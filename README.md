@@ -100,6 +100,7 @@ if __name__ == '__main__':
 ```
 ### 07. 리스트 items 와  정수 i를 입력받아,
 ### 만약 i가 items에 있으면 i 앞의 숫자들을 제거하고 리턴
+![Alt text](/img/image1.png)
 ```
 def remove_all_before(items, i) 
     # 코드 작성
@@ -137,6 +138,7 @@ if __name__ == '__main__':
 
 ### 09.  리스트를 입력받아 첫번째 아이템을 맨 마지막으로 보낸다음 리턴,
 ### 빈 리스트 [ ] 나  [ 1 ] 하나의 값이 있을때는 같은 리스트가 리턴
+![Alt text](/img/image2.png)
 ```
 def replace_first(items)
     #코드작성      
