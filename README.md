@@ -1,4 +1,4 @@
-# python Ex1 ~ Ex2
+# ✨python Ex1 ~ Ex2
 ### 01.  두 수의 곱을 리턴하는 함수
 ```
 def mult_two(a, b):
