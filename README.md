@@ -123,7 +123,7 @@ if __name__ == '__main__':
 ### 소문자가 있으면 False 리턴, 
 ### 빈'  ' 문자열이나 중간의 '  ' 는  True 로 한다.
 ```
-def is_all_upper(text)
+def is_all_upper(text):
     return ?
     
 if __name__ == '__main__':
@@ -140,7 +140,7 @@ if __name__ == '__main__':
 ### 빈 리스트 [ ] 나  [ 1 ] 하나의 값이 있을때는 같은 리스트가 리턴
 ![Alt text](/img/image2.png)
 ```
-def replace_first(items)
+def replace_first(items):
     #코드작성      
     return ?
    
@@ -156,7 +156,7 @@ if __name__ == '__main__':
 
 ### 10. 양수를 입력받아서 숫자의 자릿수중에 가장 큰수(0~9)가 리턴
 ```
-def max_digit(number)
+def max_digit(number):
     return ?
 
 
